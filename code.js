@@ -1,4 +1,2 @@
-consol.log("im liking coding");
-consol.log("99 Coding");
-
-
+console.log("I am Pwntastic");
+console.log('test');
